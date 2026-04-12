@@ -1,22 +1,22 @@
-# Available .RENTALS One-Word Domains (5,621,963)
+# Available .RENTALS One-Word Domains (9,201)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C202%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C963%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C201%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .rentals one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .rentals one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,202-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,963 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,202 rows · **Live catalog:** 5,621,963 domains
+**Public extract:** 9,202 rows · **Live catalog:** 9,201 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/rentals`  
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | strategy.rentals   | available | $56.98    | —             | 74             | 43     | 8      | namecheap         |
 | space.rentals      | resell    | —         | —             | 80             | 61     | 5      | GoDaddy.com, LLC  |
 | ace.rentals        | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com          |
-| deep.rentals       | available | $14.99    | $58.99        | 72             | 42     | 4      | name.com          |
+| deep.rentals       | available | $14.99    | $58.99        | 72             | 43     | 4      | name.com          |
 | pay.rentals        | resell    | —         | —             | 84             | 60     | 3      | Spaceship, Inc.   |
-| live.rentals       | premium   | $82.50    | $82.50        | 108            | 55     | 4      | name.com          |
+| live.rentals       | premium   | $82.50    | $82.50        | 108            | 56     | 4      | name.com          |
 | mark.rentals       | available | $14.99    | $58.99        | 66             | 42     | 4      | name.com          |
 | office.rentals     | resell    | —         | —             | 100            | 58     | 6      | NameCheap, Inc.   |
 | business.rentals   | premium   | $260      | $260          | 100            | 53     | 8      | namecheap         |
 | shit.rentals       | available | $14.99    | —             | 54             | 42     | 4      | name.com          |
 | better.rentals     | resell    | —         | —             | 110            | 56     | 6      | Dynadot Inc       |
 | data.rentals       | premium   | $85.80    | $85.80        | 70             | 53     | 4      | namecheap         |
-| research.rentals   | available | $56.98    | —             | 92             | 41     | 8      | namecheap         |
+| content.rentals    | available | $14.99    | $58.99        | 138            | 40     | 7      | name.com          |
 | future.rentals     | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc       |
-| one.rentals        | premium   | $123.75   | $123.75       | 132            | 51     | 3      | name.com          |
-| learning.rentals   | available | $56.98    | —             | 76             | 41     | 8      | namecheap         |
+| one.rentals        | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com          |
+| investor.rentals   | available | $14.99    | —             | 82             | 40     | 8      | name.com          |
 | good.rentals       | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 33 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,202-row public sample | 5,621,963 live domains                           |
+| 9,202-row public sample | 9,201 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
