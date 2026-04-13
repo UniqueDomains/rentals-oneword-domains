@@ -76,13 +76,13 @@ print(df.head())
 | shit.rentals       | available | $14.99    | —             | 54             | 43     | 4      | name.com          |
 | office.rentals     | resell    | —         | —             | 100            | 58     | 6      | NameCheap, Inc.   |
 | business.rentals   | premium   | $260      | $260          | 100            | 53     | 8      | namecheap         |
-| mark.rentals       | available | $14.99    | $58.99        | 66             | 42     | 4      | name.com          |
+| mark.rentals       | available | $14.99    | $58.99        | 66             | 41     | 4      | name.com          |
 | future.rentals     | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc       |
 | data.rentals       | premium   | $85.80    | $85.80        | 70             | 53     | 4      | namecheap         |
-| content.rentals    | available | $14.99    | $58.99        | 138            | 40     | 7      | name.com          |
+| investor.rentals   | available | $14.99    | —             | 82             | 40     | 8      | name.com          |
 | good.rentals       | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 33 |
 | one.rentals        | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com          |
-| investor.rentals   | available | $14.99    | —             | 82             | 40     | 8      | name.com          |
+| stock.rentals      | available | $56.98    | —             | 68             | 40     | 5      | namecheap         |
 | better.rentals     | resell    | —         | —             | 110            | 54     | 6      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
