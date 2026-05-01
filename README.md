@@ -1,10 +1,10 @@
-# Available .RENTALS One-Word Domains (11,681)
+# Available .RENTALS One-Word Domains (12,127)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C681%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C127%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rentals one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,681 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,127 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,681 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,127 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/rentals`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| skills.rentals      | available | $14.99    | —             | 58             | 47     | 6      | name.com         |
-| property.rentals    | resell    | —         | —             | 76             | 39     | 8      | Porkbun LLC      |
-| jobs.rentals        | premium   | $250      | —             | 79             | 42     | 4      | name.com         |
-| tokens.rentals      | available | $14.99    | —             | 51             | 36     | 6      | name.com         |
-| WiFi.rentals        | resell    | —         | —             | 83             | 37     | 5      | GoDaddy.com, LLC |
-| solutions.rentals   | premium   | $250      | —             | 56             | 31     | 9      | name.com         |
-| aliens.rentals      | available | $14.99    | —             | 56             | 35     | 6      | name.com         |
-| circular.rentals    | resell    | —         | —             | 78             | 30     | 8      | GoDaddy.com, LLC |
-| Jim.rentals         | premium   | $280      | $280          | 78             | 28     | 3      | namecheap        |
-| Cats.rentals        | available | $56.98    | —             | 59             | 33     | 4      | namecheap        |
-| videos.rentals      | resell    | —         | —             | 52             | 30     | 6      | NameCheap, Inc.  |
-| pages.rentals       | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
-| teams.rentals       | available | $14.99    | —             | 62             | 32     | 5      | name.com         |
-| instruments.rentals | resell    | —         | —             | 62             | 11     | 11     | GoDaddy.com, LLC |
-| systems.rentals     | premium   | $250      | —             | 46             | 27     | 7      | name.com         |
-| William.rentals     | available | $56.98    | —             | 74             | 31     | 7      | namecheap        |
-| tips.rentals        | premium   | $250      | —             | 80             | 26     | 4      | name.com         |
-| maps.rentals        | available | $14.99    | —             | 56             | 31     | 4      | name.com         |
-| Keith.rentals       | premium   | $92.40    | $92.40        | 66             | 25     | 5      | namecheap        |
-| heroes.rentals      | available | $14.99    | —             | 68             | 29     | 6      | name.com         |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| skills.rentals       | available | $14.99    | —             | 58             | 47     | 6      | name.com         |
+| WiFi.rentals         | resell    | —         | —             | 83             | 37     | 5      | GoDaddy.com, LLC |
+| jobs.rentals         | premium   | $250      | —             | 79             | 42     | 4      | name.com         |
+| tokens.rentals       | available | $14.99    | —             | 51             | 36     | 6      | name.com         |
+| circular.rentals     | resell    | —         | —             | 78             | 30     | 8      | GoDaddy.com, LLC |
+| solutions.rentals    | premium   | $250      | —             | 56             | 31     | 9      | name.com         |
+| William.rentals      | available | $56.98    | —             | 74             | 31     | 7      | namecheap        |
+| videos.rentals       | resell    | —         | —             | 52             | 30     | 6      | NameCheap, Inc.  |
+| Jim.rentals          | premium   | $280      | $280          | 78             | 28     | 3      | namecheap        |
+| maps.rentals         | available | $14.99    | —             | 56             | 31     | 4      | name.com         |
+| instruments.rentals  | resell    | —         | —             | 62             | 11     | 11     | GoDaddy.com, LLC |
+| pages.rentals        | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
+| slots.rentals        | available | $14.99    | —             | 49             | 31     | 5      | name.com         |
+| systems.rentals      | premium   | $250      | —             | 46             | 27     | 7      | name.com         |
+| heroes.rentals       | available | $14.99    | —             | 68             | 29     | 6      | name.com         |
+| tips.rentals         | premium   | $250      | —             | 80             | 26     | 4      | name.com         |
+| cams.rentals         | available | $14.99    | —             | 52             | 29     | 4      | name.com         |
+| Keith.rentals        | premium   | $92.40    | $92.40        | 66             | 25     | 5      | namecheap        |
+| commonground.rentals | available | $14.99    | —             | 74             | 28     | 13     | name.com         |
+| toys.rentals         | premium   | $242      | $242          | 60             | 24     | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,681 live domains                              |
+| 1,000-row public sample | 12,127 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
