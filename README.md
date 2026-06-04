@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .rentals one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,126 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,126 domains · **Median ask:** $25.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,126 domains · **Median ask:** $27.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/rentals`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| finals.rentals      | available | $14.99    | —             | 80             | 7      | 6      | name.com         |
-| jewels.rentals      | available | $14.99    | —             | 80             | 15     | 6      | name.com         |
-| geton.rentals       | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| Apples.rentals      | available | $56.98    | —             | 90             | 16     | 6      | namecheap        |
-| playon.rentals      | available | $14.99    | —             | 80             | 14     | 7      | name.com         |
-| toneup.rentals      | available | $14.99    | —             | 80             | 5      | 7      | name.com         |
-| getlife.rentals     | available | $14.99    | —             | 80             | 5      | 8      | name.com         |
-| FabFour.rentals     | available | $14.99    | —             | 82             | 3      | 8      | name.com         |
-| skills.rentals      | available | $14.99    | —             | 58             | 47     | 6      | name.com         |
-| WiFi.rentals        | resell    | —         | —             | 83             | 37     | 5      | GoDaddy.com, LLC |
-| jobs.rentals        | premium   | $250      | —             | 79             | 42     | 4      | name.com         |
-| tokens.rentals      | available | $14.99    | —             | 51             | 36     | 6      | name.com         |
-| circular.rentals    | resell    | —         | —             | 78             | 30     | 8      | GoDaddy.com, LLC |
-| solutions.rentals   | premium   | $250      | —             | 56             | 31     | 9      | name.com         |
-| William.rentals     | available | $56.98    | —             | 74             | 31     | 7      | namecheap        |
-| videos.rentals      | resell    | —         | —             | 52             | 30     | 6      | NameCheap, Inc.  |
-| Jim.rentals         | premium   | $280      | $280          | 78             | 28     | 3      | namecheap        |
-| maps.rentals        | available | $14.99    | —             | 56             | 31     | 4      | name.com         |
-| instruments.rentals | resell    | —         | —             | 62             | 11     | 11     | GoDaddy.com, LLC |
-| pages.rentals       | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| intrigue.rentals         | available | $14.99    | —             | 94             | 11     | 8      | name.com     |
+| comparable.rentals       | available | $14.99    | $58.99        | 87             | 5      | 10     | name.com     |
+| math.rentals             | available | $14.99    | —             | 94             | 42     | 4      | name.com     |
+| adventure.rentals        | available | $14.99    | —             | 94             | 40     | 9      | name.com     |
+| grandfatherinlaw.rentals | available | $14.99    | —             | 80             | 1      | 18     | name.com     |
+| portuguese.rentals       | available | $14.99    | —             | 92             | 11     | 10     | name.com     |
+| alternate.rentals        | available | $14.99    | $58.99        | 100            | 15     | 9      | name.com     |
+| urge.rentals             | available | $14.99    | —             | 93             | 13     | 4      | name.com     |
+| distance.rentals         | available | $14.99    | —             | 90             | 14     | 8      | name.com     |
+| certificate.rentals      | available | $14.99    | —             | 92             | 21     | 11     | name.com     |
+| medium.rentals           | available | $14.99    | —             | 98             | 24     | 6      | name.com     |
+| investor.rentals         | available | $14.99    | —             | 82             | 40     | 8      | name.com     |
+| flew.rentals             | available | $14.99    | —             | 92             | 7      | 4      | name.com     |
+| joke.rentals             | available | $14.99    | —             | 98             | 17     | 4      | name.com     |
+| rocket.rentals           | resell    | —         | —             | 100            | 46     | 6      | Sav.com, LLC |
+| charge.rentals           | available | $14.99    | —             | 86             | 29     | 6      | name.com     |
+| genial.rentals           | available | $14.99    | $58.99        | 80             | 18     | 6      | name.com     |
+| barbeque.rentals         | available | $14.99    | —             | 100            | 8      | 8      | name.com     |
+| protest.rentals          | available | $14.99    | —             | 92             | 18     | 7      | name.com     |
+| pop.rentals              | premium   | $42.90    | $42.90        | 82             | 44     | 3      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
