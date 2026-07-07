@@ -1,10 +1,10 @@
-# Available .RENTALS One-Word Domains (12,126)
+# Available .RENTALS One-Word Domains (12,125)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C126%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C125%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .rentals one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,126 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,125 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,126 domains · **Median ask:** $27.74 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,125 domains · **Median ask:** $27.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/rentals`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/rentals`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RENTALS one-word doma
 
 ### Files
 
-- `rentals.csv` — public CSV extract (1,000 rows)
-- `rentals.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `rentals.csv`, public CSV extract (1,000 rows)
+- `rentals.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| intrigue.rentals         | available | $14.99    | —             | 94             | 11     | 8      | name.com     |
-| comparable.rentals       | available | $14.99    | $58.99        | 87             | 5      | 10     | name.com     |
-| math.rentals             | available | $14.99    | —             | 94             | 42     | 4      | name.com     |
-| adventure.rentals        | available | $14.99    | —             | 94             | 40     | 9      | name.com     |
-| grandfatherinlaw.rentals | available | $14.99    | —             | 80             | 1      | 18     | name.com     |
-| portuguese.rentals       | available | $14.99    | —             | 92             | 11     | 10     | name.com     |
-| alternate.rentals        | available | $14.99    | $58.99        | 100            | 15     | 9      | name.com     |
-| urge.rentals             | available | $14.99    | —             | 93             | 13     | 4      | name.com     |
-| distance.rentals         | available | $14.99    | —             | 90             | 14     | 8      | name.com     |
-| certificate.rentals      | available | $14.99    | —             | 92             | 21     | 11     | name.com     |
-| medium.rentals           | available | $14.99    | —             | 98             | 24     | 6      | name.com     |
-| investor.rentals         | available | $14.99    | —             | 82             | 40     | 8      | name.com     |
-| flew.rentals             | available | $14.99    | —             | 92             | 7      | 4      | name.com     |
-| joke.rentals             | available | $14.99    | —             | 98             | 17     | 4      | name.com     |
-| rocket.rentals           | resell    | —         | —             | 100            | 46     | 6      | Sav.com, LLC |
-| charge.rentals           | available | $14.99    | —             | 86             | 29     | 6      | name.com     |
-| genial.rentals           | available | $14.99    | $58.99        | 80             | 18     | 6      | name.com     |
-| barbeque.rentals         | available | $14.99    | —             | 100            | 8      | 8      | name.com     |
-| protest.rentals          | available | $14.99    | —             | 92             | 18     | 7      | name.com     |
-| pop.rentals              | premium   | $42.90    | $42.90        | 82             | 44     | 3      | namecheap    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| bad.rentals    | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| what.rentals   | available | $14.99    | —             | high           | low    | 4      | name.com          |
+| bae.rentals    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| bid.rentals    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| abc.rentals    | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap         |
+| bce.rentals    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| gulf.rentals   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC  |
+| ago.rentals    | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com          |
+| jot.rentals    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| ride.rentals   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 39 |
+| mao.rentals    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| stuff.rentals  | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.   |
+| bed.rentals    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| MMR.rentals    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| flower.rentals | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC      |
+| bee.rentals    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| mon.rentals    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| flying.rentals | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC  |
+| bug.rentals    | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| mum.rentals    | available | $14.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,126 live domains                        |
+| 1,000-row public sample | 12,125 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word domains on the .rentals extension. The names range from direct commercial terms to broader words such as Acup.rentals, jewels.rentals, ladies.rentals, matcha.rentals, and finals.rentals. For founders, the best choices are the ones that clearly match a rental use case and still sound credible as a brand. For investors, the key test is narrower: does the word have obvious rental-market applicability, buyer clarity, and enough specificity to support resale interest? The median ask is 25.83, but low entry price should not outweigh weak fit. In this extension, clarity of use and renewal discipline matter more than novelty alone.
+This list gathers single-word domain names on the .rentals extension, spanning common vocabulary, holiday terms, and short emotional words. With 12,125 names in the set and a median ask near $28, pricing stays accessible for early-stage founders while still offering enough volume for investors to compare across categories. Names range from utilitarian ('content.rentals') to conversational ('sorry.rentals', 'damn.rentals'), reflecting the flexible, descriptive nature the .rentals extension supports for property, equipment, and service-based businesses.
 
-- Favor words with clear rental intent over abstract terms
-- Check renewal economics before treating a low ask as a deal
-- Exact-match commercial terms usually read stronger in .rentals
-- Avoid words with weak rental relevance or possible trademark issues
+- 12,125 one-word .rentals names in this selection
+- Median ask near $28 across the set
+- Mix of everyday, seasonal, and short conversational words
+- Updated daily to reflect current availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
