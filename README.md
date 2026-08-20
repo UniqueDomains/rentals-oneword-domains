@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rentals one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,999 domains · **Median ask:** $19.54 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/rentals`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bad.rentals    | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
 | ain.rentals    | available | $6.98     | $56.98        | low            | low    | 3      | namecheap         |
 | bid.rentals    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
 | abc.rentals    | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap         |
@@ -73,6 +72,7 @@ print(df.head())
 | ago.rentals    | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com          |
 | bce.rentals    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
 | ride.rentals   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 39 |
+| bad.rentals    | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
 | jot.rentals    | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | stuff.rentals  | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.   |
 | bed.rentals    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
