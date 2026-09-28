@@ -1,10 +1,10 @@
-# Available .RENTALS One-Word Domains (23,202)
+# Available .RENTALS One-Word Domains (23,750)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C202%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C750%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .rentals one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,202 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,750 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,202 domains · **Median ask:** $17.40 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 23,750 domains · **Median ask:** $17.40 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/rentals`
@@ -70,19 +70,19 @@ print(df.head())
 | het.rentals        | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap                  |
 | island.rentals     | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.            |
 | ate.rentals        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| jut.rentals        | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap                  |
+| jen.rentals        | available | $10.99    | $44.49        | high           | low    | 3      | namesilo                   |
 | temple.rentals     | resell    | —         | —             | high           | high   | 6      | GoDaddy.com, LLC           |
 | bar.rentals        | premium   | $242      | $242          | high           | low    | 3      | namesilo                   |
-| lxi.rentals        | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap                  |
+| jut.rentals        | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap                  |
 | designer.rentals   | resell    | —         | —             | high           | low    | 8      | Go Montenegro Domains, LLC |
 | mid.rentals        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| msg.rentals        | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| lxi.rentals        | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap                  |
 | outdoors.rentals   | resell    | —         | —             | high           | low    | 8      | IONOS SE                   |
 | sue.rentals        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| nag.rentals        | available | $10.99    | $44.49        | high           | low    | 3      | namesilo                   |
+| msg.rentals        | available | $14.99    | —             | high           | low    | 3      | name.com                   |
 | conference.rentals | resell    | —         | —             | high           | low    | 10     | GoDaddy.com, LLC           |
 | win.rentals        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                   |
-| nih.rentals        | available | $10.99    | $44.49        | high           | low    | 3      | namesilo                   |
+| nag.rentals        | available | $10.99    | $44.49        | high           | low    | 3      | namesilo                   |
 | inflatable.rentals | resell    | —         | —             | high           | low    | 10     | Dynadot Inc                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,202 live domains                        |
+| 1,000-row public sample | 23,750 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
