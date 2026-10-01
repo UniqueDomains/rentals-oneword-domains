@@ -1,10 +1,10 @@
-# Available .RENTALS One-Word Domains (27,877)
+# Available .RENTALS One-Word Domains (30,097)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C877%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C097%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rentals one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,877 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,097 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,877 domains · **Median ask:** $17.11 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 30,097 domains · **Median ask:** $16.88 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/rentals`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| dsm.rentals        | available | $6.69     | $35.53        | medium         | low    | 3      | porkbun          |
+| adr.rentals        | available | $10.99    | $44.49        | high           | low    | 3      | namesilo         |
 | island.rentals     | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
 | ape.rentals        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| eis.rentals        | available | $6.69     | $35.53        | high           | low    | 3      | porkbun          |
-| temple.rentals     | resell    | —         | —             | high           | high   | 6      | GoDaddy.com, LLC |
+| dsm.rentals        | available | $6.69     | $35.53        | medium         | low    | 3      | porkbun          |
+| outdoors.rentals   | resell    | —         | —             | high           | low    | 8      | IONOS SE         |
 | ate.rentals        | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
 | eps.rentals        | available | $34.20    | $34.20        | high           | low    | 3      | cloudflare       |
-| outdoors.rentals   | resell    | —         | —             | high           | low    | 8      | IONOS SE         |
+| conference.rentals | resell    | —         | —             | high           | low    | 10     | GoDaddy.com, LLC |
 | bar.rentals        | premium   | $220      | $220          | high           | low    | 3      | dynadot          |
 | fai.rentals        | available | $6.64     | $36.60        | high           | low    | 3      | dynadot          |
-| conference.rentals | resell    | —         | —             | high           | low    | 10     | GoDaddy.com, LLC |
-| lon.rentals        | premium   | $36.32    | $72.57        | medium         | low    | 3      | porkbun          |
-| fim.rentals        | available | $6.41     | $35.39        | medium         | low    | 3      | spaceship        |
 | inflatable.rentals | resell    | —         | —             | high           | low    | 10     | Dynadot Inc      |
-| sue.rentals        | premium   | $66.50    | $78.54        | high           | low    | 3      | unstoppable      |
-| het.rentals        | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap        |
+| jog.rentals        | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship        |
+| fim.rentals        | available | $6.41     | $35.39        | medium         | low    | 3      | spaceship        |
 | philippine.rentals | resell    | —         | —             | high           | low    | 10     | NameCheap, Inc.  |
-| win.rentals        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| isi.rentals        | available | $10.99    | $44.49        | high           | low    | 3      | namesilo         |
+| lon.rentals        | premium   | $36.32    | $72.57        | medium         | low    | 3      | porkbun          |
+| het.rentals        | available | $6.98     | $56.98        | medium         | low    | 3      | namecheap        |
+| sue.rentals        | premium   | $66.50    | $78.54        | high           | low    | 3      | unstoppable      |
+| ifa.rentals        | available | $6.41     | $35.39        | high           | low    | 3      | spaceship        |
 | bell.rentals       | premium   | $102.67   | $102.67       | high           | low    | 4      | spaceship        |
+| isi.rentals        | available | $10.99    | $44.49        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,877 live domains                        |
+| 1,000-row public sample | 30,097 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 4 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENTALS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
